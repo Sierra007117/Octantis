@@ -1,0 +1,1 @@
+wget http://www.kicadlib.org/modules/p89c51.lib.zip
